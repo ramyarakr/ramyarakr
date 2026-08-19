@@ -1,4 +1,4 @@
-# Hi, I'm Ramya 👩‍💻
+# Hi, I'm Ramya!
 
 **Data Science + Applied Statistics @ Purdue University**
 
